@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Cw0RrX6RWoY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gusta\\OneDrive\\Área de Trabalho\\C#\\Projetos\\Gerador de Bolas\\Generetor\\Generetor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gusta\\.nuget\\packages\\raylib-cs\\7.0.2\\raylib-cs.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
